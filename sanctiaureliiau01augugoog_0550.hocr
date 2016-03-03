@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sanctiaureliiau01augugoog_0550.png"; bbox 0 0 2110 2690; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 501 2381 895 2522">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 501 2381 895 2522">
+     <span class='ocr_line' id='line_1_1' title="bbox 654 2455 873 2522; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 841 2473 873 2488; x_wconf 87' lang='lat'>..</span> <span class='ocrx_word' id='word_1_2' title='bbox 697 2455 787 2522; x_wconf 43' lang='lat' dir='ltr'>..J-...0</span> <span class='ocrx_word' id='word_1_3' title='bbox 654 2464 663 2490; x_wconf 34' lang='grc' dir='ltr'>Γ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 501 2381 895 2470; textangle 270"><span class='ocrx_word' id='word_1_4' title='bbox 788 2383 895 2470; x_wconf 46' lang='lat' dir='ltr'>‚affl</span> <span class='ocrx_word' id='word_1_5' title='bbox 501 2381 764 2457; x_wconf 26' lang='lat' dir='ltr'>‚Anssenuffszffs</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 556 2336 885 2412">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 556 2336 885 2412">
+     <span class='ocr_line' id='line_1_3' title="bbox 563 2373 833 2412; textangle 270"><span class='ocrx_word' id='word_1_6' title='bbox 817 2378 833 2397; x_wconf 27' lang='grc' dir='ltr'>«Δ,</span> <span class='ocrx_word' id='word_1_7' title='bbox 667 2381 809 2409; x_wconf 37' lang='grc' dir='ltr'>ἴκριῇιτὲ</span> <span class='ocrx_word' id='word_1_8' title='bbox 614 2373 659 2407; x_wconf 59' lang='lat'><em>4</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 563 2378 606 2412; x_wconf 48' lang='lat' dir='ltr'>,Vb</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 556 2336 885 2378; textangle 270"><span class='ocrx_word' id='word_1_10' title='bbox 729 2342 885 2378; x_wconf 54' lang='grc' dir='ltr'>ἐκ,</span> <span class='ocrx_word' id='word_1_11' title='bbox 613 2340 728 2377; x_wconf 45' lang='lat' dir='ltr'>wama&amp;</span> <span class='ocrx_word' id='word_1_12' title='bbox 556 2336 613 2373; x_wconf 90' lang='grc' dir='ltr'>ΛΜΗ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2110 2690">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2110 2690">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2110 2690; textangle 270"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 2110 2690; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
